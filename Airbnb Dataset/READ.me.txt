@@ -1,0 +1,29 @@
+What is the distribution of property types?
+(e.g., apartment, house, etc.)
+
+What is the average price per night for each room type?
+(Compare room types such as private room, entire home, and shared room.)
+
+How does the number of reviews affect the average rating of listings?
+(Visualize the correlation between the number of reviews and review scores.)
+
+Which neighborhoods have the most listings?
+(Identify the top neighborhoods in terms of listing count.)
+
+What is the average availability of listings (in days) for the next 30, 60, and 90 days?
+(Analyze availability patterns to see which listings are more frequently booked.)
+
+How do review scores for cleanliness compare across different neighborhoods?
+(Examine whether some neighborhoods consistently have higher or lower cleanliness scores.)
+
+What is the distribution of minimum and maximum stay requirements across different listings?
+(Visualize the minimum and maximum nights for bookings.)
+
+How does the number of bedrooms influence the price of the listing?
+(Explore how prices change with the number of available bedrooms.)
+
+What are the most common amenities provided by the listings?
+(Create a visualization to show the most frequent amenities.)
+
+Which hosts have the highest number of listings, and what is their average rating?
+(Investigate host performance based on the number of listings and average reviews.)
